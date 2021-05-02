@@ -23,7 +23,7 @@ catch {
 
 Remove-Item -path C:\Users\Yiaz\Videos\ -Filter Keeping_up_Kardashians*
 Remove-Item -path C:\Users\Yiaz\Videos\ -Filter The_Bachelorette_Season_17*
-Remove-Item -path C:\Users\Yiaz\Videos\ -Filter The_Bachelorette_Season_17*
+Remove-Item -path C:\Users\Yiaz\Videos\ -Filter Hip_Hop_Dance_Moves_For_Beginners*
 $source = 'https://reactnative.dev/docs/tutorial/React_Native_Tutorial.mp4'
 Invoke-WebRequest -Uri $source -OutFile C:\Users\Yiaz\Videos\React_Native_Tutorial.mp4
 
