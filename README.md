@@ -9,5 +9,5 @@ How to use this tool:
 To Do:
 Register-ScheduledJob -RunEvery Weekly
 
-*Note, this is a joke script.*
-*...But it does work*
+*Note, this is/was a joke script between friends. It has since been obfuscated, though you could check the history if you really wanted to.*
+*... it does work*
