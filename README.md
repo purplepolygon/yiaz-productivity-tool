@@ -10,3 +10,4 @@ To Do:
 Register-ScheduledJob -RunEvery Weekly
 
 *Note, this is a joke script.*
+*...But it does work*
